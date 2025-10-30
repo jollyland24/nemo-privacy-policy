@@ -89,11 +89,6 @@ You can:
 
 We may update this privacy policy occasionally. Continued use of nemo after changes means you accept the updated policy. We will notify users of significant changes via the extension.
 
-## Questions or Concerns?
-
-- 🐙 GitHub Issues: https://github.com/jollyland24/markie/issues
-- 📄 View our code: https://github.com/jollyland24/markie
-
 ---
 
 **Bottom Line:** nemo respects your privacy by default. Sync and AI Search are powerful optional features, but you never have to use them. Your bookmarks are yours alone.
